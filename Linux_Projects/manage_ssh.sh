@@ -1,5 +1,10 @@
 #!/bin/bash
-
+# -------------------------------------------------------------------
+# Script Name:  manage_ssh.sh
+# Description:  Automated SSH service manager 
+#               Allows starting/stopping SSH and checking port 22 status.
+# Date:         June 2026
+# -------------------------------------------------------------------
 echo "================================="
 echo "   SSH Service Manager for Lab   "
 echo "================================="
