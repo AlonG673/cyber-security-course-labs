@@ -1,4 +1,10 @@
-# Class project 1– “Rock, Paper, Scissors”
+# -------------------------------------------------------------------
+# Script Name:  RockPaperScissors.py
+# Description:  An interactive terminal-based game built in Python.
+#                Includes Single-Player (vs. Computer) and 2-Player mode,
+#                score tracking, and input validation using try/except.
+# Date:         June 2026
+# -------------------------------------------------------------------
 import random
 
 player1_score = 0
