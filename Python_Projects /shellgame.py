@@ -1,3 +1,8 @@
+# -------------------------------------------------------------------
+# Script Name:  shellgame.py
+# Description:  A classic "Cups and Ball" guessing game built in Python.
+# Date:         June 2026
+# -------------------------------------------------------------------
 import random
 cup_list = [" ", "X", " "]
 player1_score = 0
